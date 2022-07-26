@@ -19,7 +19,7 @@ function App() {
               Layout = Fragment
             }
             else {
-              Layout = Layout;
+              Layout = DefaultLayout;
             }
 
             return <Route
